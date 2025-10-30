@@ -1,2 +1,5 @@
 # Algoritmo-Naive-Bayes-Gaussiano-do-Zero
-Recriação do algoritmo Naive Bayes Gaussiano em Python com o objetivo de entender melhor como funciona.
+
+---
+
+Objetivo: Recriar o algoritmo de aprendizado de máquina Naive Bayes Gaussiano em Python com o objetivo de entender melhor como funciona.
